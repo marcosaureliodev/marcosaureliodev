@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>
 Meu nome é Marcos Aurélio, Trabalho como desenvolvedor Web desde 2019. Tenho conhecimentos na área de TI como redes de computadores, segurança de rede e análise de rede, linux e web. Uma grande capacidade de lhe dar com as adversidade, buscando assim a melhor forma para solucionar os problemas enfrentados por mim e a equipe que estiver a minha frente.
+<p>
+<p>
 Já tive diversas experiencias na área de TI, a onde trabalhei como técnico em informática no ano de 2009 a 2016 na instituição Exército Brasileiro e atualmente trabalho para Grupo Mateus um dos maiores conglomerados de empresas de Atacado e Varejo do Brasil. 
+<p>
 
 ## No tempo livre, gosto de:
 ```
