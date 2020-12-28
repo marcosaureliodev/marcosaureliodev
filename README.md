@@ -18,13 +18,15 @@ Here are some ideas to get you started:
 Meu nome é Marcos Aurélio, Trabalho como desenvolvedor Web desde 2019. Tenho conhecimentos na área de TI como redes de computadores, segurança de rede e análise de rede, linux e web. Uma grande capacidade de lhe dar com as adversidade, buscando assim a melhor forma para solucionar os problemas enfrentados por mim e a equipe que estiver a minha frente.
 <p>
 <p>
-Já tive diversas experiencias na área de TI, a onde trabalhei como técnico em informática no ano de 2009 a 2016 na instituição Exército Brasileiro e atualmente trabalho para Grupo Mateus um dos maiores conglomerados de empresas de Atacado e Varejo do Brasil. 
+Já tive diversas experiencias na área de TI, onde trabalhei como técnico em informática no ano de 2009 a 2016 na instituição Exército Brasileiro e atualmente trabalho para Grupo Mateus um dos maiores conglomerados de empresas de Atacado e Varejo do Brasil. 
 <p>
+  
+## Minhas stacks:
+<div align="center"> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> </div>
 
 ## No tempo livre, gosto de:
 ```
-Jogar vídio-game(🎮).
-Assistir Animes (⛩), assistir filmes (🎞️).
 Ler livros (📚), ouvir música (🎵) e o melhor de tudo está ao lado da minha família(👨‍👩‍👦+👵).
 ```
 # Rede Sociais 📱
