@@ -32,7 +32,7 @@ Ler livros (📚), ouvir música (🎵) e o melhor de tudo está ao lado da minh
 # Rede Sociais 📱
 Acompanhe nas minhas redes sociais.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-aureliodev/)](www.linkedin.com/in/marcos-aureliodev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcos-aureliodev)](https://www.linkedin.com/in/marcos-aureliodev)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-FF0000?style=flat-square&labelColor=FF0000&logo=instagram&logoColor=white&link=https://www.instagram.com/marcosaurelio.oficial)](https://www.instagram.com/m.aurelio.a)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aurlio_a)](https://twitter.com/aurlio_a)
 [![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcos.aureliodev@gmail.com)](mailto:marcos.aureliodev@gmail.com)
